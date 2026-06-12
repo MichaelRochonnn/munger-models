@@ -1,0 +1,7 @@
+interface:
+  display_name: "Munger Models Graph"
+  short_description: "用芒格思维模型知识图谱做跨学科决策分析与模型检索"
+  default_prompt: "Use $munger-models-graph to analyze this decision with Munger Models' cross-disciplinary lattice."
+
+policy:
+  allow_implicit_invocation: true
